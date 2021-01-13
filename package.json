@@ -1,0 +1,21 @@
+{
+  "name": "rando-markdown",
+  "version": "1.0.0",
+  "description": "## References [Lorem Markdownum](https://jaspervdj.be/lorem-markdownum/)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d documents",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimfucious/kimfucious.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimfucious/kimfucious.github.io/issues"
+  },
+  "homepage": "https://github.com/kimfucious/kimfucious.github.io#readme"
+}
